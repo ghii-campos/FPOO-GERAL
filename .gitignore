@@ -1,0 +1,14 @@
+
+loja/.classpath
+loja/.project
+*.prefs
+loja/bin/br/com/classes/veiculo.class
+loja/bin/module-info.class
+loja/bin/br/com/main/main.class
+loja/src/module-info.java
+projetoDiarista/.project
+projetoDiarista/bin/br/com/classes/Cliente.class
+projetoDiarista/bin/br/com/classes/Diarista.class
+projetoDiarista/.classpath
+projetoDiarista/bin/br/com/classes/Pessoa.class
+projetoDiarista/bin/br/com/projeto/app.class
